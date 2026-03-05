@@ -50,3 +50,14 @@ Experiments and notes for local LLMs, RAG, agents, and evaluation.
 - prompts/go_api_health_refactor.md (v1)
 - prompts/rag_basics_explainer.md (v1)
 - prompts/eval_rubric.md (v1)
+
+Local model log:
+
+- Did it respect Gin + zerolog?
+  Yes
+- Did it avoid logging the entire cfg file?
+  Yes
+- Did it leave /health exactly as {"status":"ok"}?
+  Yes
+- Does the code compile without editing?
+  Yes
