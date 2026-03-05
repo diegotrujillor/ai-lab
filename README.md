@@ -40,3 +40,13 @@ Experiments and notes for local LLMs, RAG, agents, and evaluation.
 - Strengths:
 - Weaknesses:
 - Next step (Week 1 Day 2):
+
+## Week 1 - Day 2 Prompt pack
+
+### Prompt Pack Version
+
+- prompts/go_api_new_endpoint.md (v1)
+- prompts/go_api_code_review.md (v1)
+- prompts/go_api_health_refactor.md (v1)
+- prompts/rag_basics_explainer.md (v1)
+- prompts/eval_rubric.md (v1)
